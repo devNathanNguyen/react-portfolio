@@ -1,5 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import { jsx as _jsx } from 'react/jsx-runtime';
+import { jsxs as _jsxs } from 'react/jsx-runtime';
 
 function Navigation({ currentSection, setCurrentSection }) {
   const sections = ["About", "Portfolio", "Contact", "Resume"];

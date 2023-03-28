@@ -1,5 +1,7 @@
 import React from "react";
-import Project from "./Project";
+// import Project from "./Project.jsx";
+import { jsx as _jsx } from 'react/jsx-runtime';
+import { jsxs as _jsxs } from 'react/jsx-runtime';
 
 function Portfolio() {
   // Replace with your actual project information
